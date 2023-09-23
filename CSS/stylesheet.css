@@ -1,0 +1,9 @@
+.topOfHome{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: lightblue;
+    border: 2px solid;
+    align-items: center;
+    
+}
