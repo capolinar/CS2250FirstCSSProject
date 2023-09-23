@@ -4,6 +4,7 @@
     text-align: center;
     border: 2px solid;
     align-items: center;
+    background-color: lightblue;
     
 }
 
@@ -11,6 +12,6 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    margin: 0;
-    float: left;
+    margin: 20px;
+    float: center;
 }
