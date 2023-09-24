@@ -8,6 +8,10 @@
     
 }
 
+.links{
+    display: inline-block;
+}
+
 .link1{
     display: flex;
     justify-content: center;
