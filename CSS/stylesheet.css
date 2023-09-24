@@ -8,7 +8,7 @@
     
 }
 
-.pageLinks{
+.link1{
     display: flex;
     justify-content: center;
     text-align: center;
@@ -22,3 +22,34 @@
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.link2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    float: center;
+    border: 2px solid;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.link3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    float: center;
+    border: 2px solid;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
