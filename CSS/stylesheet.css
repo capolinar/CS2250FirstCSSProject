@@ -21,14 +21,43 @@
 }
 
 .link1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    float: center;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    background-color: red;
+}
+
+
+.link2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    float: center;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
     background-color: red;
 
 }
 
-.link2{
-
-}
-
 .link3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    float: center;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    background-color: red;
 
 }
