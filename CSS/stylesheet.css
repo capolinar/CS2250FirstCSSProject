@@ -20,12 +20,13 @@
     text-align: center;
     margin: 10px;
     border: 2px solid;
-    padding-top: 2px;
+    padding-top: 25px;
     padding-right: 2px;
     padding-bottom: 2px;
     padding-left: 2px;
     margin-left: 10px;
     margin-right: 10px;
+    height: 35px;
     background-color:aquamarine;
     color: rgb(44, 40, 40);
 }
@@ -33,16 +34,16 @@
 .link2{
     display: flex;
     justify-content: center;
-    
     margin: 10px;
     border: 2px solid;
-    padding-top: 2px;
+    padding-top: 25px;
     padding-right: 2px;
     padding-bottom: 2px;
     padding-left: 2px;
     margin-left: 10px;
     margin-right: 10px;
-    background-color:aquamarine;
+    height: 35px;
+    background-color:rgb(198, 197, 207);
     color: rgb(44, 40, 40);
 }
 
@@ -57,7 +58,9 @@
     display: flex;
     height: 300px;
     width: 400px;
+    max-width: 80%;
     margin-left: auto;
     margin-right: auto;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
