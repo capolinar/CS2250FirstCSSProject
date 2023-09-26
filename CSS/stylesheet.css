@@ -10,15 +10,15 @@
 
 .links{
     float: center;
-    margin: 10px;
+    min-height: auto;
+
 }
 
 .link1{
     display: flex;
     justify-content: center;
     text-align: center;
-    margin: 20px;
-    
+    margin: 10px;
     border: 2px solid;
     padding-top: 2px;
     padding-right: 2px;
@@ -26,14 +26,15 @@
     padding-left: 2px;
     margin-left: 10px;
     margin-right: 10px;
+    background-color:aquamarine;
+    color: rgb(44, 40, 40);
 }
 
 .link2{
     display: flex;
     justify-content: center;
-    text-align: center;
-    margin: 20px;
- 
+    
+    margin: 10px;
     border: 2px solid;
     padding-top: 2px;
     padding-right: 2px;
@@ -41,20 +42,22 @@
     padding-left: 2px;
     margin-left: 10px;
     margin-right: 10px;
+    background-color:aquamarine;
+    color: rgb(44, 40, 40);
 }
 
-.link3{
+.head2{
     display: flex;
+    
     justify-content: center;
-    text-align: center;
-    margin: 20px;
+}
 
-    border: 2px solid;
-    padding-top: 2px;
-    padding-right: 2px;
-    padding-bottom: 2px;
-    padding-left: 2px;
-    margin-left: 10px;
-    margin-right: 10px;
+.SadCat{
+    border-radius: 8px;
+    display: flex;
+    height: 300px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
