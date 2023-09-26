@@ -89,6 +89,7 @@
     outline-width: medium;
     outline-offset: 5px;
     margin-bottom: 25px;
+    margin-top: 25px;
 
 }
 
@@ -128,4 +129,13 @@
   .dropdown:hover .dropdown-content {
     position: relative;
     display: flex;
+  }
+
+  .goat{
+    display: flex;
+    justify-content: center;
+    text-decoration-line: overline underline;
+    text-decoration-color: darkorange;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 1px;
   }
